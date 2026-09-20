@@ -4,6 +4,8 @@ Hi, I'm Qiang Zhang. You can call me Nate.
 
 I build tools for speech evaluation, AI agent workflows, and everyday use.
 
+[Personal website](https://harokell.github.io/)
+
 ## Selected projects
 
 ### [Speech Evaluation Demo](https://github.com/harokell/speech-eval-demo)
