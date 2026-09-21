@@ -1,51 +1,40 @@
-# Qiang (Nate) Zhang
+# Qiang (Nate) Zhang · 张强
 
-Hi, I'm Qiang Zhang. You can call me Nate.
+I work on **speech interaction with large language models** at **iFLYTEK**. Previously, my research at Tianjin University focused on **image restoration and fusion**.
 
-I work at **iFLYTEK** on **large language models for speech interaction**. My research background is in **computer vision**, especially image restoration and fusion.
+[Personal website](https://harokell.github.io/) · [Research](https://harokell.github.io/#publications) · [Projects](https://harokell.github.io/#projects)
 
-Born in 2001 · Male
-
-[Personal website](https://harokell.github.io/)
-
-## Experience
-
-- **2026–present · iFLYTEK (科大讯飞)** — large language models for speech interaction.
-
-## Education
-
-- **2023–2026 · Tianjin University (天津大学)** — Computer Technology (计算机技术). Research area: computer vision (CV).
-- **2019–2023 · Anhui University (安徽大学)** — Data Science and Big Data Technology (数据科学与大数据技术).
-
-## Publications
+## Research
 
 **[Interactive All-in-One Image Restoration and Fusion](https://www.ijcai.org/proceedings/2026/105)**  
 Bing Cao, **Qiang Zhang**†, Xingxin Xu, Pengfei Zhu  
-IJCAI 2026 · Main Track · pp. 935–943
+*IJCAI 2026* · † First student author
 
-† First student author
+Restoring degraded images and fusing infrared and visible information with text instructions and a pretrained diffusion model.
+
+[Paper](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
 
 ## Selected projects
 
-### [Speech Evaluation Demo](https://github.com/harokell/speech-eval-demo)
+- **[Speech Evaluation Demo](https://github.com/harokell/speech-eval-demo)** — An offline workbench for inspecting speech recognition errors, with character error rate, diagnostic reports and reproducible experiments. Python / SQLite.
+- **[SubTracker](https://github.com/harokell/subtracker)** — An offline subscription tracker for recurring costs and upcoming renewals. JavaScript / IndexedDB. [Try it](https://harokell.github.io/subtracker/).
 
-An offline Python workbench for speech evaluation and error analysis, with character error rate (CER), evidence-based diagnostics, controlled revisions, and JSONL/CSV exports. Includes synthetic examples and a local web interface.
+## Background
 
-### [SubTracker](https://github.com/harokell/subtracker)
+| Period | Institution | Focus |
+| --- | --- | --- |
+| 2026–present | **iFLYTEK · 科大讯飞** | Speech interaction with LLMs |
+| 2023–2026 | **Tianjin University · 天津大学** | Computer Technology · Computer vision |
+| 2019–2023 | **Anhui University · 安徽大学** | Data Science and Big Data Technology |
 
-A local-first progressive web app for tracking subscriptions and recurring expenses. Built with JavaScript, Vite, and IndexedDB, with offline support.
+<details>
+<summary>Agent workflows</summary>
 
-[Try SubTracker](https://harokell.github.io/subtracker/)
+- [Task output folders](https://github.com/harokell/task-output-folder-skill) — Keep generated artifacts organized.
+- [Publish completed work](https://github.com/harokell/publish-completed-work-skill) — Publish approved projects and skills.
+- [Skill-first projects](https://github.com/harokell/skill-first-project-skill) — Find and evaluate skills before development.
+- [Prepare generic skills](https://github.com/harokell/prepare-generic-skill-skill) — Prepare reusable, platform-neutral agent skills.
 
-## Agent workflows
+</details>
 
-Reusable skills for organizing and publishing agent-assisted work:
-
-- [Task output folders](https://github.com/harokell/task-output-folder-skill) — organize generated artifacts in a consistent directory structure.
-- [Publish completed work](https://github.com/harokell/publish-completed-work-skill) — publish approved projects and skills to GitHub.
-- [Skill-first projects](https://github.com/harokell/skill-first-project-skill) — find and evaluate relevant skills before starting a project.
-- [Prepare generic skills](https://github.com/harokell/prepare-generic-skill-skill) — prepare agent skills as platform-neutral public packages.
-
-## Tools I use
-
-Python · JavaScript · SQLite · IndexedDB · GitHub Actions
+You can call me Nate. Born in 2001 · Male.
