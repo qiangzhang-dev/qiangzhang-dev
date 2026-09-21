@@ -2,9 +2,26 @@
 
 Hi, I'm Qiang Zhang. You can call me Nate.
 
-I build tools for speech evaluation, AI agent workflows, and everyday use.
+I work at **iFLYTEK** on **large language models for speech interaction**. My research background is in **computer vision**, especially image restoration and fusion.
+
+Born in 2001 · Male
 
 [Personal website](https://harokell.github.io/)
+
+## Experience
+
+- **2026–present · iFLYTEK (科大讯飞)** — large language models for speech interaction.
+
+## Education
+
+- **2023–2026 · Tianjin University (天津大学)** — Computer Technology (计算机技术). Research area: computer vision (CV).
+- **2019–2023 · Anhui University (安徽大学)** — Data Science and Big Data Technology (数据科学与大数据技术).
+
+## Publications
+
+**[Interactive All-in-One Image Restoration and Fusion](https://www.ijcai.org/proceedings/2026/105)**  
+Bing Cao, **Qiang Zhang**, Xingxin Xu, Pengfei Zhu  
+IJCAI 2026 · Main Track · pp. 935–943
 
 ## Selected projects
 
