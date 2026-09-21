@@ -2,7 +2,7 @@
 
 I work on **speech interaction with large language models** at **iFLYTEK**. Previously, my research at Tianjin University focused on **image restoration and fusion**.
 
-[Personal website](https://harokell.github.io/) · [Research](https://harokell.github.io/#publications) · [Projects](https://harokell.github.io/#projects)
+[Email](mailto:zhangqiang_c@outlook.com) · [Personal website](https://harokell.github.io/) · [Research](https://harokell.github.io/#publications) · [Projects](https://harokell.github.io/#projects)
 
 ## Research
 
