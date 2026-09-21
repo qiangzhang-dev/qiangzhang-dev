@@ -20,8 +20,10 @@ Born in 2001 · Male
 ## Publications
 
 **[Interactive All-in-One Image Restoration and Fusion](https://www.ijcai.org/proceedings/2026/105)**  
-Bing Cao, **Qiang Zhang**, Xingxin Xu, Pengfei Zhu  
+Bing Cao, **Qiang Zhang**†, Xingxin Xu, Pengfei Zhu  
 IJCAI 2026 · Main Track · pp. 935–943
+
+† First student author
 
 ## Selected projects
 
