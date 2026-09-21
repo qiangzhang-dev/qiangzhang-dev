@@ -1,4 +1,4 @@
-# Nate Zhang
+# Qiang (Nate) Zhang
 
 I work on **speech interaction with large language models** at **iFLYTEK**. Previously, my research at Tianjin University focused on **image restoration and fusion**.
 
