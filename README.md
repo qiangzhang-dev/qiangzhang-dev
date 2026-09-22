@@ -12,7 +12,7 @@ Bing Cao, **Qiang Zhang**†, Xingxin Xu, Pengfei Zhu
 
 Restoring degraded images and fusing infrared and visible information with text instructions and a pretrained diffusion model.
 
-[PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [Publication](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
+[Repository](https://github.com/harokell/AIR-Fusion) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [Publication](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
 
 ## Personal projects
 
