@@ -12,9 +12,11 @@ Bing Cao, **Qiang Zhang**†, Xingxin Xu, Pengfei Zhu
 
 Restoring degraded images and fusing infrared and visible information with text instructions and a pretrained diffusion model.
 
-[Paper](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
+[PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [Publication](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
 
-## Selected projects
+## Personal projects
+
+Independent projects exploring speech evaluation and everyday productivity.
 
 - **[Speech Evaluation Demo](https://github.com/harokell/speech-eval-demo)** — An offline workbench for inspecting speech recognition errors, with character error rate, diagnostic reports and reproducible experiments. Python / SQLite.
 - **[SubTracker](https://github.com/harokell/subtracker)** — An offline subscription tracker for recurring costs and upcoming renewals. JavaScript / IndexedDB. [Try it](https://harokell.github.io/subtracker/).
@@ -38,3 +40,7 @@ Restoring degraded images and fusing infrared and visible information with text 
 </details>
 
 You can call me Nate. Born in 2001 · Male.
+
+## Contact
+
+[zhangqiang_c@outlook.com](mailto:zhangqiang_c@outlook.com)
