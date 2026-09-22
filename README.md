@@ -39,8 +39,7 @@ Independent projects exploring speech evaluation and everyday productivity.
 
 </details>
 
-You can call me Nate. Born in 2001 · Male.
-
+You can call me Nate.
 ## Contact
 
 [zhangqiang_c@outlook.com](mailto:zhangqiang_c@outlook.com)
