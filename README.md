@@ -2,7 +2,7 @@
 
 I work on **speech interaction with large language models** at **iFLYTEK**. Previously, my research at Tianjin University focused on **image restoration and fusion**.
 
-[Email](mailto:zhangqiang_c@outlook.com) · [Personal website](https://harokell.github.io/) · [Research](https://harokell.github.io/#publications) · [Projects](https://harokell.github.io/#projects)
+[Email](mailto:zhangqiang_c@outlook.com) · [Personal website](https://qiangzhang-dev.github.io/) · [Research](https://qiangzhang-dev.github.io/#publications) · [Projects](https://qiangzhang-dev.github.io/#projects)
 
 ## Research
 
@@ -12,14 +12,14 @@ Bing Cao, **Qiang Zhang**†, Xingxin Xu, Pengfei Zhu
 
 Restoring degraded images and fusing infrared and visible information with text instructions and a pretrained diffusion model.
 
-[Repository](https://github.com/harokell/AIR-Fusion) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [Publication](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
+[Repository](https://github.com/qiangzhang-dev/AIR-Fusion) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [Publication](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
 
 ## Personal projects
 
 Independent projects exploring speech evaluation and everyday productivity.
 
-- **[Speech Evaluation Demo](https://github.com/harokell/speech-eval-demo)** — An offline workbench for inspecting speech recognition errors, with character error rate, diagnostic reports and reproducible experiments. Python / SQLite.
-- **[SubTracker](https://github.com/harokell/subtracker)** — An offline subscription tracker for recurring costs and upcoming renewals. JavaScript / IndexedDB. [Try it](https://harokell.github.io/subtracker/).
+- **[Speech Evaluation Demo](https://github.com/qiangzhang-dev/speech-eval-demo)** — An offline workbench for inspecting speech recognition errors, with character error rate, diagnostic reports and reproducible experiments. Python / SQLite.
+- **[SubTracker](https://github.com/qiangzhang-dev/subtracker)** — An offline subscription tracker for recurring costs and upcoming renewals. JavaScript / IndexedDB. [Try it](https://qiangzhang-dev.github.io/subtracker/).
 
 ## Background
 
@@ -32,10 +32,10 @@ Independent projects exploring speech evaluation and everyday productivity.
 <details>
 <summary>Agent workflows</summary>
 
-- [Task output folders](https://github.com/harokell/task-output-folder-skill) — Keep generated artifacts organized.
-- [Publish completed work](https://github.com/harokell/publish-completed-work-skill) — Publish approved projects and skills.
-- [Skill-first projects](https://github.com/harokell/skill-first-project-skill) — Find and evaluate skills before development.
-- [Prepare generic skills](https://github.com/harokell/prepare-generic-skill-skill) — Prepare reusable, platform-neutral agent skills.
+- [Task output folders](https://github.com/qiangzhang-dev/task-output-folder-skill) — Keep generated artifacts organized.
+- [Publish completed work](https://github.com/qiangzhang-dev/publish-completed-work-skill) — Publish approved projects and skills.
+- [Skill-first projects](https://github.com/qiangzhang-dev/skill-first-project-skill) — Find and evaluate skills before development.
+- [Prepare generic skills](https://github.com/qiangzhang-dev/prepare-generic-skill-skill) — Prepare reusable, platform-neutral agent skills.
 
 </details>
 
