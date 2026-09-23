@@ -2,7 +2,7 @@
 
 I work on **speech interaction with large language models** at **iFLYTEK**. Previously, my research at Tianjin University focused on **image restoration and fusion**.
 
-[Email](mailto:zhangqiang_c@outlook.com) · [Personal website](https://qiangzhang-dev.github.io/) · [Research](https://qiangzhang-dev.github.io/#publications) · [Projects](https://qiangzhang-dev.github.io/#projects)
+[Email](mailto:zhangqiang_c@outlook.com) · [Personal website](https://qiangzhang-dev.github.io/) · [Research](https://qiangzhang-dev.github.io/#publications) · [Writing](https://qiangzhang-dev.github.io/#writing) · [Projects](https://qiangzhang-dev.github.io/#projects)
 
 ## Research
 
@@ -13,6 +13,13 @@ Bing Cao, **Qiang Zhang**†, Xingxin Xu, Pengfei Zhu
 Restoring degraded images and fusing infrared and visible information with text instructions and a pretrained diffusion model.
 
 [Project page](https://qiangzhang-dev.github.io/air-fusion/) · [Repository](https://github.com/qiangzhang-dev/AIR-Fusion) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [Publication](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
+
+## Writing
+
+**[AIR-Fusion：用扩散模型同时做图像恢复与融合](https://qiangzhang-dev.github.io/notes/air-fusion/)**  
+Chinese research note · September 2026
+
+An author’s walkthrough of the frozen restoration backbone, CMBA conditioning and TCR sampling constraints, with original figures and published results.
 
 ## Personal projects
 
