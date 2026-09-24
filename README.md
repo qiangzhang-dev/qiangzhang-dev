@@ -27,7 +27,7 @@ Selected articles and answers in Chinese. [All writing](https://qiangzhang-dev.g
 
 Independent projects exploring speech evaluation and everyday productivity.
 
-- **[Speech Evaluation Demo](https://github.com/qiangzhang-dev/speech-eval-demo)** — An offline workbench for inspecting speech recognition errors, with character error rate, diagnostic reports and reproducible experiments. Python / SQLite.
+- **[Speech Evaluation Demo](https://github.com/qiangzhang-dev/speech-eval-demo)** — An offline workbench for inspecting speech recognition errors, with character error rate, diagnostic reports and reproducible experiments. Python / SQLite. [Browse sample results](https://qiangzhang-dev.github.io/speech-eval/).
 - **[SubTracker](https://github.com/qiangzhang-dev/subtracker)** — An offline subscription tracker for recurring costs and upcoming renewals. JavaScript / IndexedDB. [Try it](https://qiangzhang-dev.github.io/subtracker/).
 
 ## Background
