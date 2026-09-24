@@ -2,7 +2,7 @@
 
 I work on **speech interaction with large language models** at **iFLYTEK**. Previously, my research at Tianjin University focused on **image restoration and fusion**.
 
-[Email](mailto:zhangqiang_c@outlook.com) · [Personal website](https://qiangzhang-dev.github.io/) · [Research](https://qiangzhang-dev.github.io/#publications) · [Writing](https://qiangzhang-dev.github.io/#writing) · [Projects](https://qiangzhang-dev.github.io/#projects)
+[Email](mailto:zhangqiang_c@outlook.com) · [Personal website](https://qiangzhang-dev.github.io/) · [Research](https://qiangzhang-dev.github.io/#publications) · [Writing](https://qiangzhang-dev.github.io/#writing) · [Zhihu](https://www.zhihu.com/people/cai-hua-si-yi-ru-wo) · [Projects](https://qiangzhang-dev.github.io/#projects)
 
 ## Research
 
@@ -14,12 +14,14 @@ Restoring degraded images and fusing infrared and visible information with text 
 
 [Project page](https://qiangzhang-dev.github.io/air-fusion/) · [Repository](https://github.com/qiangzhang-dev/AIR-Fusion) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [Publication](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
 
-## Writing
+## Technical writing
 
-**[AIR-Fusion：用扩散模型同时做图像恢复与融合](https://qiangzhang-dev.github.io/notes/air-fusion/)**  
-Chinese research note · September 2026
+Selected articles and answers in Chinese. [All writing](https://qiangzhang-dev.github.io/#writing) · [Zhihu](https://www.zhihu.com/people/cai-hua-si-yi-ru-wo)
 
-An author’s walkthrough of the frozen restoration backbone, CMBA conditioning and TCR sampling constraints, with original figures and published results.
+- **[如何评估 LLM？](https://www.zhihu.com/question/629846408/answer/2086466731988480729)** — Leaderboards, pass@k, sampling budgets and judge bias.
+- **[为什么大模型在微调后，就失去了通用能力？](https://www.zhihu.com/question/653449514/answer/2086463714430079855)** — Diagnosing regressions in data, training, inference and scoring.
+- **[口语化 SFT 后，模型为什么可能答得更顺，却答得不准？](https://zhuanlan.zhihu.com/p/2086404159851467671)** — Conversational style, correctness and controlled comparisons.
+- **[AIR-Fusion：用扩散模型同时做图像恢复与融合](https://qiangzhang-dev.github.io/notes/air-fusion/)** — An author’s walkthrough with original figures and published results. [Zhihu edition](https://zhuanlan.zhihu.com/p/2086060701387329755).
 
 ## Personal projects
 
