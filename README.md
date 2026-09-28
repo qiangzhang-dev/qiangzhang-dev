@@ -18,7 +18,7 @@ Restoring degraded images and fusing infrared and visible information with text 
 
 Selected articles and answers in Chinese. [All writing](https://qiangzhang-dev.github.io/#writing) · [Zhihu](https://www.zhihu.com/people/cai-hua-si-yi-ru-wo)
 
-- **[beam 从 1 改成 5：40 条录音里，哪些结果变了？](https://qiangzhang-dev.github.io/notes/whisper-beam/)** — 真实音频实验，附逐句输出、固定协议和复现脚本。
+- **[beam 从 1 改成 5：40 条录音里，哪些结果变了？](https://qiangzhang-dev.github.io/notes/whisper-beam/)** — 真实音频实验，附逐句输出、固定协议和复现脚本。 [Zhihu edition](https://zhuanlan.zhihu.com/p/2087855815839560000).
 - **[如何评估 LLM？](https://www.zhihu.com/question/629846408/answer/2086466731988480729)** — 相同正确率下，错误分布可能有什么不同？
 - **[为什么大模型在微调后，就失去了通用能力？](https://www.zhihu.com/question/653449514/answer/2086463714430079855)** — 从具体错误检查加载、模板和训练数据。
 - **[口语化 SFT 后，模型为什么可能答得更顺，却答得不准？](https://zhuanlan.zhihu.com/p/2086404159851467671)** — 改写答案时，哪些信息容易一起被删掉。
