@@ -22,6 +22,7 @@ Restoring degraded images and fusing infrared and visible information with text 
 
 Selected articles and answers in Chinese. [All writing](https://qiangzhang-dev.github.io/#writing) · [Zhihu](https://www.zhihu.com/people/cai-hua-si-yi-ru-wo)
 
+- **[训练答案改写后，怎么检查它还适不适合做 SFT？](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/)** — 用构造案例检查条件、解释、确定性和输入信息。 [Zhihu edition](https://zhuanlan.zhihu.com/p/2088274090624824483).
 - **[口语化 SFT 后，模型为什么可能答得更顺，却答得不准？](https://zhuanlan.zhihu.com/p/2086404159851467671)** — 改写答案时，哪些信息容易一起被删掉。
 - **[为什么大模型在微调后，就失去了通用能力？](https://www.zhihu.com/question/653449514/answer/2086463714430079855)** — 从具体错误检查加载、模板和训练数据。
 - **[如何评估 LLM？](https://www.zhihu.com/question/629846408/answer/2086466731988480729)** — 相同正确率下，错误分布可能有什么不同？
