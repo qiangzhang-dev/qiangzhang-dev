@@ -13,7 +13,7 @@ I use the team's existing evaluation workflows to compare model versions and mak
 | Work | What is available |
 | --- | --- |
 | **[SFT answer-target experiment](https://qiangzhang-dev.github.io/experiments/sft-explanation/followup/)** | Qwen2.5-0.5B LoRA training with two answer targets and two seeds, followed by paired question rewording. [Code, data and raw outputs](https://github.com/qiangzhang-dev/qiangzhang-dev.github.io/tree/main/experiments/sft-explanation) · [First report](https://qiangzhang-dev.github.io/experiments/sft-explanation/results/) |
-| **[Reviewing rewritten SFT answers](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/)** | Worked examples for checking conditions, explanations, certainty and missing input information before using an answer for training. |
+| **[Reviewing rewritten SFT answers](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/)** | A [browser checker](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/) surfaces lexical changes and exports human review decisions. The worked examples discuss conditions, explanations, certainty and missing input information. |
 | **[Whisper decoding experiment](https://qiangzhang-dev.github.io/notes/whisper-beam/)** | A beam-size comparison on 40 real recordings, with [paired transcripts](https://qiangzhang-dev.github.io/notes/whisper-beam/report/) and reproduction scripts. |
 
 These public experiments use open models and public or synthetic data. The SFT study is a small text-only experiment; its results do not establish general capability retention or speech quality.
@@ -42,6 +42,7 @@ Selected articles and answers in Chinese. [All writing](https://qiangzhang-dev.g
 
 ## Personal projects
 
+- **[SFT Rewrite Checker](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/)** — Compare original and rewritten answers, inspect rule-based review cues, and export decisions with notes. Data stays in the current browser page. [Code and examples](https://github.com/qiangzhang-dev/qiangzhang-dev.github.io/tree/main/tools/sft-rewrite-checker).
 - **[Speech Evaluation Demo](https://github.com/qiangzhang-dev/speech-eval-demo)** — A small personal project for comparing reference transcripts and recognition outputs, calculating character error rate, and inspecting character differences. Python / SQLite. [Browse sample results](https://qiangzhang-dev.github.io/speech-eval/).
 - **[SubTracker](https://github.com/qiangzhang-dev/subtracker)** — Track subscriptions, monthly totals and renewal dates in your browser. JavaScript / IndexedDB. [Try it](https://qiangzhang-dev.github.io/subtracker/).
 
