@@ -13,7 +13,7 @@ I use the team's existing evaluation workflows to compare model versions and mak
 | Work | What is available |
 | --- | --- |
 | **[SFT answer-target experiment](https://qiangzhang-dev.github.io/experiments/sft-explanation/followup/)** | Qwen2.5-0.5B LoRA training with two answer targets and two seeds, followed by paired question rewording. [Code, data and raw outputs](https://github.com/qiangzhang-dev/qiangzhang-dev.github.io/tree/main/experiments/sft-explanation) · [First report](https://qiangzhang-dev.github.io/experiments/sft-explanation/results/) |
-| **[Reviewing rewritten SFT answers](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/)** | A [browser checker](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/) surfaces lexical changes and exports human review decisions. The worked examples discuss conditions, explanations, certainty and missing input information. |
+| **[Reviewing rewritten SFT answers](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/)** | A [browser checker](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/) surfaces lexical changes and exports human review decisions. [Quick start](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/guide/). Worked examples discuss conditions, explanations, certainty and missing input information. |
 | **[Whisper decoding experiment](https://qiangzhang-dev.github.io/notes/whisper-beam/)** | A beam-size comparison on 40 real recordings, with [paired transcripts](https://qiangzhang-dev.github.io/notes/whisper-beam/report/) and reproduction scripts. |
 
 These public experiments use open models and public or synthetic data. The SFT study is a small text-only experiment; its results do not establish general capability retention or speech quality.
