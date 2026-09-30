@@ -8,6 +8,16 @@ I use the team's existing evaluation workflows to compare model versions and mak
 
 [Email](mailto:zhangqiang_c@outlook.com) · [Personal website](https://qiangzhang-dev.github.io/) · [Research](https://qiangzhang-dev.github.io/#publications) · [Writing](https://qiangzhang-dev.github.io/#writing) · [Zhihu](https://www.zhihu.com/people/cai-hua-si-yi-ru-wo) · [Projects](https://qiangzhang-dev.github.io/#projects)
 
+## Selected work
+
+| Work | What is available |
+| --- | --- |
+| **[SFT answer-target experiment](https://qiangzhang-dev.github.io/experiments/sft-explanation/followup/)** | Qwen2.5-0.5B LoRA training with two answer targets and two seeds, followed by paired question rewording. [Code, data and raw outputs](https://github.com/qiangzhang-dev/qiangzhang-dev.github.io/tree/main/experiments/sft-explanation) · [First report](https://qiangzhang-dev.github.io/experiments/sft-explanation/results/) |
+| **[Reviewing rewritten SFT answers](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/)** | Worked examples for checking conditions, explanations, certainty and missing input information before using an answer for training. |
+| **[Whisper decoding experiment](https://qiangzhang-dev.github.io/notes/whisper-beam/)** | A beam-size comparison on 40 real recordings, with [paired transcripts](https://qiangzhang-dev.github.io/notes/whisper-beam/report/) and reproduction scripts. |
+
+These public experiments use open models and public or synthetic data. The SFT study is a small text-only experiment; its results do not establish general capability retention or speech quality.
+
 ## Research
 
 **[Interactive All-in-One Image Restoration and Fusion](https://www.ijcai.org/proceedings/2026/105)**  
@@ -22,6 +32,7 @@ Restoring degraded images and fusing infrared and visible information with text 
 
 Selected articles and answers in Chinese. [All writing](https://qiangzhang-dev.github.io/#writing) · [Zhihu](https://www.zhihu.com/people/cai-hua-si-yi-ru-wo)
 
+- **[SFT 原题高分，换个问法会怎样？一次小模型实测](https://zhuanlan.zhihu.com/p/2088312597007409375)** — 固定模板、换问法，以及格式和数值分别判分。
 - **[训练答案改写后，怎么检查它还适不适合做 SFT？](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/)** — 用构造案例检查条件、解释、确定性和输入信息。 [Zhihu edition](https://zhuanlan.zhihu.com/p/2088274090624824483).
 - **[口语化 SFT 后，模型为什么可能答得更顺，却答得不准？](https://zhuanlan.zhihu.com/p/2086404159851467671)** — 改写答案时，哪些信息容易一起被删掉。
 - **[为什么大模型在微调后，就失去了通用能力？](https://www.zhihu.com/question/653449514/answer/2086463714430079855)** — 从具体错误检查加载、模板和训练数据。
@@ -43,6 +54,7 @@ Selected articles and answers in Chinese. [All writing](https://qiangzhang-dev.g
 | 2019–2023 | **Anhui University · 安徽大学** | Data Science and Big Data Technology |
 
 You can call me Nate.
+
 ## Contact
 
 [zhangqiang_c@outlook.com](mailto:zhangqiang_c@outlook.com)
