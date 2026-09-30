@@ -8,15 +8,15 @@ I use the team's existing evaluation workflows to compare model versions and mak
 
 [Email](mailto:zhangqiang_c@outlook.com) · [Personal website](https://qiangzhang-dev.github.io/) · [Research](https://qiangzhang-dev.github.io/#publications) · [Writing](https://qiangzhang-dev.github.io/#writing) · [Zhihu](https://www.zhihu.com/people/cai-hua-si-yi-ru-wo) · [Projects](https://qiangzhang-dev.github.io/#projects)
 
-## Selected work
+## Start here
 
-| Work | What is available |
+| Interest | Where to start |
 | --- | --- |
-| **[SFT answer-target experiment](https://qiangzhang-dev.github.io/experiments/sft-explanation/followup/)** | Qwen2.5-0.5B LoRA training with two answer targets and two seeds, followed by paired question rewording. [Code, data and raw outputs](https://github.com/qiangzhang-dev/qiangzhang-dev.github.io/tree/main/experiments/sft-explanation) · [First report](https://qiangzhang-dev.github.io/experiments/sft-explanation/results/) |
-| **[Reviewing rewritten SFT answers](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/)** | A [browser checker](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/) surfaces lexical changes and exports human review decisions. [Quick start](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/guide/). Worked examples discuss conditions, explanations, certainty and missing input information. |
-| **[Whisper decoding experiment](https://qiangzhang-dev.github.io/notes/whisper-beam/)** | A beam-size comparison on 40 real recordings, with [paired transcripts](https://qiangzhang-dev.github.io/notes/whisper-beam/report/) and reproduction scripts. |
+| **Speech LLM SFT: training data and model behavior** | [Reviewing rewritten SFT answers](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/) walks through conditions, explanations, certainty and missing input information. A small text-only study adds a [first training comparison](https://qiangzhang-dev.github.io/experiments/sft-explanation/results/), a [question-rewording follow-up](https://qiangzhang-dev.github.io/experiments/sft-explanation/followup/), and [code and raw outputs](https://github.com/qiangzhang-dev/qiangzhang-dev.github.io/tree/main/experiments/sft-explanation). |
+| **Published research: AIR-Fusion** | [IJCAI 2026 paper](https://www.ijcai.org/proceedings/2026/105) on image restoration and infrared–visible fusion. The [project page](https://qiangzhang-dev.github.io/air-fusion/) presents the method and published results. |
+| **Independent ASR study: Whisper decoding** | [Beam-size comparison on 40 recordings](https://qiangzhang-dev.github.io/notes/whisper-beam/), with [paired transcripts](https://qiangzhang-dev.github.io/notes/whisper-beam/report/) and reproduction scripts. |
 
-These public experiments use open models and public or synthetic data. The SFT study is a small text-only experiment; its results do not establish general capability retention or speech quality.
+The SFT and ASR experiments are small independent studies using open models and public or synthetic data. The SFT study is text-only; its results do not establish general capability retention or speech quality.
 
 ## Research
 
@@ -26,7 +26,9 @@ Bing Cao, **Qiang Zhang**†, Xingxin Xu, Pengfei Zhu
 
 Restoring degraded images and fusing infrared and visible information with text instructions and a pretrained diffusion model.
 
-[Project page](https://qiangzhang-dev.github.io/air-fusion/) · [Repository](https://github.com/qiangzhang-dev/AIR-Fusion) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [Publication](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
+Paper, figures and citation are public. Implementation and model weights are not publicly available.
+
+[Project page](https://qiangzhang-dev.github.io/air-fusion/) · [Paper materials](https://github.com/qiangzhang-dev/AIR-Fusion) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [Publication](https://www.ijcai.org/proceedings/2026/105) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105)
 
 ## Technical writing
 
@@ -42,7 +44,7 @@ Selected articles and answers in Chinese. [All writing](https://qiangzhang-dev.g
 
 ## Personal projects
 
-- **[SFT Rewrite Checker](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/)** — Compare original and rewritten answers, inspect rule-based review cues, and export decisions with notes. Data stays in the current browser page. [Code and examples](https://github.com/qiangzhang-dev/qiangzhang-dev.github.io/tree/main/tools/sft-rewrite-checker).
+- **[SFT Rewrite Checker](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/)** — Compare original and rewritten answers, inspect rule-based review cues, and export decisions with notes. Data stays in the current browser page. [Quick start](https://qiangzhang-dev.github.io/tools/sft-rewrite-checker/guide/) · [Code and examples](https://github.com/qiangzhang-dev/qiangzhang-dev.github.io/tree/main/tools/sft-rewrite-checker).
 - **[Speech Evaluation Demo](https://github.com/qiangzhang-dev/speech-eval-demo)** — A small personal project for comparing reference transcripts and recognition outputs, calculating character error rate, and inspecting character differences. Python / SQLite. [Browse sample results](https://qiangzhang-dev.github.io/speech-eval/).
 - **[SubTracker](https://github.com/qiangzhang-dev/subtracker)** — Track subscriptions, monthly totals and renewal dates in your browser. JavaScript / IndexedDB. [Try it](https://qiangzhang-dev.github.io/subtracker/).
 
