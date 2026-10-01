@@ -34,6 +34,7 @@ Paper, figures and citation are public. Implementation and model weights are not
 
 Selected articles and answers in Chinese. [All writing](https://qiangzhang-dev.github.io/#writing) · [Zhihu](https://www.zhihu.com/people/cai-hua-si-yi-ru-wo)
 
+- **[pass@10 比 pass@1 低，先检查评测口径](https://qiangzhang-dev.github.io/notes/pass-at-k-sampling/)** — 区分采样覆盖率、平均正确率和多轮成功率，附构造案例与复核脚本。
 - **[从文本问答到语音 SFT：一条训练样本要保留什么？](https://qiangzhang-dev.github.io/notes/speech-sft-sample/)** — 用构造案例检查朗读稿、实际音频、监督目标和数据划分；未生成音频或运行训练。
 - **[SFT 原题高分，换个问法会怎样？一次小模型实测](https://zhuanlan.zhihu.com/p/2088312597007409375)** — 固定模板、换问法，以及格式和数值分别判分。
 - **[训练答案改写后，怎么检查它还适不适合做 SFT？](https://qiangzhang-dev.github.io/notes/sft-rewrite-review/)** — 用构造案例检查条件、解释、确定性和输入信息。 [Zhihu edition](https://zhuanlan.zhihu.com/p/2088274090624824483).
